@@ -1,0 +1,3 @@
+bot: python bot.py
+report: python report_bot.py
+
